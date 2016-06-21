@@ -1,6 +1,6 @@
 # Coursera projects
 
-###**Machine Learning Specialization**
+###**1. Machine Learning Specialization**
 
 **Created by**:   University of Washington
 
@@ -11,7 +11,7 @@
 * Machine Learning: Regression
 * Machine Learning: Classification
 
-**Genomic Data Science Specialization**
+###**2. Genomic Data Science Specialization**
 
 **Created by**:   Johns Hopkins University
 
@@ -26,7 +26,7 @@
 * Bioconductor for Genomic Data Science
 * Statistics for Genomic Data Science
 
-**Python for Everybody Specialization**
+###**3. Python for Everybody Specialization**
 
 **Created by**:   University of Michigan
 
